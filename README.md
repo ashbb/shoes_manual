@@ -3,10 +3,10 @@ Shoes Manual for Printing
 
 Shoes-0.r1134
 -------------
+All in one HTML file : **Shoes_Manual.htm in 0.r1134_manual_HTML.zip**
 
-All in one html file : Shoes_Manual.htm
+PDF file : **0.r1134_manual_PDF.zip**
 
-PDF file : The Shoes Manual 0.r1134.pdf
 
 Recipe
 ------

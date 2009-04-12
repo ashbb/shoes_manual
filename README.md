@@ -1,9 +1,9 @@
-Shoes Manual for Printing
+Shoes Manual for printing
 =========================
 
 Shoes-0.r1134
 -------------
-All in one HTML file : **Shoes_Manual.htm in 0.r1134_manual_HTML.zip**
+All in one HTML file : **Shoes_Manual.html in 0.r1134_manual_HTML.zip**
 
 PDF file : **0.r1134_manual_PDF.zip**
 
@@ -18,7 +18,7 @@ Recipe
 
 - run `ruby cathtmls.rb`
 
-- create `Shoes_Manual.htm`
+- create `Shoes_Manual.html`
 
 - delete the sidebar from all html files and edit the width in `manual.css`
 

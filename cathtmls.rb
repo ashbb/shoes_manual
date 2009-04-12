@@ -3,13 +3,13 @@ HEADER =<<'EOS'
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
 <html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>The Shoes Manual // The App Object</title>
+<title>The Shoes Manual for printing</title>
 <script type="text/javascript" src="static/code_highlighter.js"></script>
 <script type="text/javascript" src="static/code_highlighter_ruby.js"></script>
 <style type="text/css">@import 'static/manual.css';</style></head><body>
 EOS
 FOOTER = '</body></html>'
-OUT = 'Shoes_Manual.htm'
+OUT = 'Shoes_Manual.html'
 CSS = 'static/manual.css'
 
 ORDER = %w[Hello.html Introducing.html Installing.html Rules.html 

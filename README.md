@@ -26,3 +26,8 @@ Recipe
 
 Cheers,<br>
 **ashbb**
+
+
+Snapshot
+--------
+![all_in_one_shoes_manual_0.r1134.png](http://github.com/ashbb/shoes_manual/raw/master/all_in_one_shoes_manual_0.r1134.png)

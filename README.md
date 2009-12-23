@@ -1,6 +1,12 @@
 Shoes Manual for printing
 =========================
 
+Shoes-0.r1285
+-------------
+All in one **Japanese** HTML file : **Shoes_Manual.html in 0.r1285_japanese_manual_HTML.zip**
+
+**Note**: Translated by [tnobuhito](http://github.com/tnobuhito)
+
 Shoes-0.r1134
 -------------
 All in one HTML file : **Shoes_Manual.html in 0.r1134_manual_HTML.zip**
